@@ -24,6 +24,6 @@ Discovers → Scores → Enriches → Outreaches. Zero human input.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📫 Connect
-- 🌐 [techhorizonmsp.ca](https://techhorizonmsp.ca)
-- 💼 [Upwork Profile](#) ← add your link once live
-- 📧 hello@techhorizonmsp.ca
+- 🌐 [techhorizonmsp.com](https://techhorizonmsp.com)
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01e3cb36f7e073510a?mp_source=share)
+- 📧 hzafar@techhorizonmsp.com
